@@ -11,7 +11,7 @@ applications:
   password_css_selector: '[key=val2]'
   target_url: https://platform.mydomain.com
   type: web
-  username: some-user
+  username: user1
   username_css_selector: '[key=value]'
 - api_domain: api.mydomaain.com
   application_name: api-asset3
