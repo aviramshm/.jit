@@ -13,7 +13,7 @@ applications:
   type: web
   username: user1
   username_css_selector: '[key=value]'
-- api_domain: api.mydomaain.com
+- api_domain: api.mydomain.com
   application_name: api-asset3
   auth_header_name: Authorization
   auth_header_value: encrypted$AQICAHi84flUOGUkbkZkTL0gAmiUV15UwsdMGpTcuhhcwetrxgFo26VvbSPvhtTHH+6e1jdZAAAF9jCCBfIGCSqGSIb3DQEHBqCCBeMwggXfAgEAMIIF2AYJKoZIhvcNAQcBMB4GCWCGSAFlAwQBLjARBAzSE6muJ05ZzJVNZw0CARCAggWp4PCR4Se9f0fNse9m4fSajF9ylC4RdeAgLQ3r2w9b0hCXRylmzmw7WquOp
